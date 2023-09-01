@@ -1,8 +1,8 @@
 ### 👋 Olá, eu sou o Edgar Mendes, estudante de Engenharia de Software!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyphyxx&show_icons=true&theme=dracula&card_width=500&title_color=ff69b4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&theme=dracula&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&theme=dark&card_width=500)
 
 #### 🚀 Linguagens e frameworks que estou aprendendo 
 
