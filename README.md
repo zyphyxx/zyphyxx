@@ -2,7 +2,7 @@
 
 ![Edgar'  GitHub stats](https://github-readme-stats.vercel.app/api?username=zyphyxx&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&theme=dark&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&theme=dark&card_width=470)
 
 #### 🚀 Linguagens e frameworks que estou aprendendo 
 
