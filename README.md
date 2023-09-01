@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Edgar Mendes, estudante de Engenharia de Software!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Edgar'  GitHub stats](https://github-readme-stats.vercel.app/api?username=zyphyxx&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&theme=dark&card_width=500)
 
