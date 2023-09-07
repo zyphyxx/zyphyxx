@@ -1,4 +1,7 @@
-### 👋 Olá, eu sou o Edgar Mendes, estudante de Engenharia de Software!
+### 👋 Olá, eu sou o Edgar Mendes
+### 🏠 Morador de Suzano-SP 
+### 💪 Atualmente estou em transição de carreira com muito foco e dedicação!
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-smj/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zyphyxx)
 
