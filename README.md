@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Edgar+Mendes;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+ <div align="center">
 ![Edgar'  GitHub stats](https://github-readme-stats.vercel.app/api?username=zyphyxx&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&theme=dark&card_width=470)
+</div>
 
 #### 🚀 Linguagens e frameworks que estou aprendendo 
 <div style="display: inline_block"><br />
