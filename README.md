@@ -4,14 +4,11 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zyphyxx&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edgar Mendes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-![Edgar'  GitHub stats](https://github-readme-stats.vercel.app/api?username=zyphyxx&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&theme=dark&card_width=470)
-
 #### 🚀 Linguagens e frameworks que estou aprendendo 
+
 <div style="display: inline_block"><br />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,9 +17,11 @@
 </div>
 
 📖 Sobre Mim
+
 Sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Java, Python, Spring Boot e também tenho interesse em bancos de dados MySQL.
 
 ### Fique à vontade para me seguir e entrar em contato nas redes sociais. Vamos nos conectar e compartilhar conhecimento!
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-smj/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zyphyxx)
 
