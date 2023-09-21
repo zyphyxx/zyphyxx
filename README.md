@@ -1,33 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1 align="center">Olá 👋, eu sou Edgar S. Mendes</h1>
+<h3 align="center">Cursando Eng. de Software</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Edgar+Mendes;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zyphyxx&label=Profile%20views&color=0e75b6&style=flat" alt="zyphyxx" /> </p>
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zyphyxx&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edgar Mendes github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyphyxx&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/zyphyxx" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/zyphyxx?logo=twitter&style=for-the-badge" alt="https://twitter.com/zyphyxx" /></a> </p>
 
- ### 🚀 Linguagens e frameworks que estou aprendendo 
-<div style="display: inline_block"><br />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Spring boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+- 🌱 Atualmente estou me aperfeiçoando **Java e Spring Boot**
 
-### 📖 Sobre Mim
+- 📫 contato: **mendesbr92@gmail.com**
 
-### Sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Java, Python, Spring Boot e também tenho interesse em bancos de dados MySQL.
+- 📄 Sobre mim: [https://www.linkedin.com/in/edgar-smj/](https://www.linkedin.com/in/edgar-smj/)
 
-### Fique à vontade para me seguir e entrar em contato nas redes sociais. Vamos nos conectar e compartilhar conhecimento!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/zyphyxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/zyphyxx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/edgar-smj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-smj/" height="30" width="40" /></a>
+</p>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-smj/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zyphyxx)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{zyphyxx}/count.svg" /></p> 
-<br></div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyphyxx&show_icons=true&theme=dark&locale=en&layout=compact" alt="zyphyxx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyphyxx&show_icons=true&theme=dark&locale=en" alt="zyphyxx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyphyxx&theme=dark" alt="zyphyxx" /></p>
 
