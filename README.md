@@ -1,28 +1,62 @@
-<h1 align="center">Olá 👋, eu sou Edgar S. Mendes</h1>
-<h3 align="center">Desenvolvedor Java em Formação (Software Development Student | Backend | Java)</h3>
+### Hey 👋, I'm Edgar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zyphyxx&label=Profile%20views&color=0e75b6&style=flat" alt="zyphyxx" /> </p>
+[![Github](https://img.shields.io/github/followers/zyphyxx?label=Follow&style=social)](https://github.com/zyphyxx)
 
-![✓』𝐆𝐀𝐌𝐈𝐍𝐆-𝐍𝐈𝐆𝐇𝐓𝐒↷-𝘁-𝘀𝗵𝗶𝗴𝗮𝗿𝗮𝗸𝗶-❝𝐤𝐢ⓢ𝐦𝐞𝐭❞-cool-pixel-art-pixel-art-pixel-animation](https://github.com/zyphyxx/zyphyxx/assets/127572883/881da06f-4845-4570-9890-c1d7cd136e06)
+Desenvolvedor Java em Formação (Software Development Student | Backend | Java)
+
+<!-- GRS (Light Mode) -->
+<div align="center"> 
+  <a href="https://github.com/zyphyxx#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=zyphyxx&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
+      alt="My Github stats"
+      height="370"
+    />
+  </a>
+  <a href="https://github.com/zyphyxx#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zyphyxx&layout=pie&hide_border=true&langs_count=10#gh-light-mode-only"
+      alt="My Language stats"
+      height="370"
+    />
+  </a>
+</div>
+
+<!-- GRS (Dark Mode) -->
+<div align="center"> 
+  <a href="https://github.com/zyphyxx#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=zyphyxx&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+      alt="My Github stats"
+      height="370"
+    />
+  </a>
+  <a href="https://github.com/zyphyxx#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zyphyxx&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      alt="My Language stats"
+      height="370"
+    />
+  </a>
+</div>
+
+<!-- Streal stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/zyphyxx#gh-light-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=zyphyxx&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
 
 
-- 🌱 Atualmente estou me aperfeiçoando **Java e Spring Boot**
-
-- 📫 contato: **zyphyxx@proton.me**
-
-- 📄 Sobre mim: [https://www.linkedin.com/in/edgar-smj/](https://www.linkedin.com/in/edgar-smj/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edgar-smj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-smj/" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/zyphyxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/zyphyxx" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
+<!-- Streal stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/zyphyxx#gh-dark-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=zyphyxx&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
