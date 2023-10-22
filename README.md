@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/zyphyxx?label=Follow&style=social)](https://github.com/zyphyxx)
 
-Desenvolvedor Java em Formação (Software Development Student | Backend | Java)
+### Olá meu nome é Edgar tenho 30 anos e estou em transição de carreira, no momento estou me aperfeiçoando em java e suas tecnologias. 
 
 <!-- GRS (Light Mode) -->
 <div align="center"> 
