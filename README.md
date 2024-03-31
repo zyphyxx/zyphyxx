@@ -6,7 +6,7 @@
 <div align="center"> 
  <h2> 👋 Sobre mim</h2>
 </div>
-Olá, meu nome é Edgar Mendes, tenho 32 anos e sou de Suzano - SP. Estou em transição de carreira da área de logística e almoxarifado para o desenvolvimento de software. Durante anos, adquiri habilidades como organização, resolução de problemas e trabalho em equipe, que acredito serem fundamentais para minha jornada na área de desenvolvimento. Estou entusiasmado para aplicar minha experiência anterior e minha paixão pela tecnologia para enfrentar novos desafios e aprender continuamente nesta nova área.
+Olá, meu nome é Edgar Mendes, tenho 32 anos e sou de Suzano - SP. Estou em transição de carreira da área de almoxarifado para o desenvolvimento de software. Durante anos, adquiri habilidades como organização, resolução de problemas e trabalho em equipe, que acredito serem fundamentais para minha jornada na área de desenvolvimento. Estou entusiasmado para aplicar minha experiência anterior e minha paixão pela tecnologia para enfrentar novos desafios e aprender continuamente nesta nova área.
 
 <div align="center"> 
  <h2>👨‍💻 Jornada na Programação</h2>
@@ -18,12 +18,10 @@ Iniciei minha jornada na programação Java em 2023 e desde então tenho me dedi
  <h2> 🛠️ Habilidades e Tecnologias</h2>
 </div>
 
-- **Java:** Experiência sólida na linguagem de programação Java.
-- **Spring Boot:** Proficiente no desenvolvimento de aplicativos usando o framework Spring Boot.
+- **Java:** Experiência basica na linguagem de programação Java.
+- **Spring Boot:** aprendendo desenvolvimento de aplicativos usando o framework Spring Boot.
 - **JavaScript, HTML, CSS:** Aprendendo e desenvolvendo habilidades em tecnologias web para criar interfaces de usuário dinâmicas e responsivas.
 - **SQL:** Experiência básica em gerenciamento de bancos de dados relacionais.
-- **Node.js com Express:** Aprendendo e desenvolvendo habilidades em Node.js para criar aplicativos de servidor eficientes e escaláveis.
-- **React:** Atualmente, estou aprendendo e desenvolvendo habilidades básicas em React para criar aplicações web modernas e interativas.
 
 
 <div align="center"> 
