@@ -6,33 +6,23 @@
 <div align="center"> 
  <h2> 👋 Sobre mim</h2>
 </div>
-Olá, meu nome é Edgar Mendes, tenho 32 anos e sou de Suzano - SP. Estou em transição de carreira da área de almoxarifado para o desenvolvimento de software. Durante anos, adquiri habilidades como organização, resolução de problemas e trabalho em equipe, que acredito serem fundamentais para minha jornada na área de desenvolvimento. Estou entusiasmado para aplicar minha experiência anterior e minha paixão pela tecnologia para enfrentar novos desafios e aprender continuamente nesta nova área.
-
-<div align="center"> 
- <h2>👨‍💻 Jornada na Programação</h2>
-</div>
-
-Iniciei minha jornada na programação Java em 2023 e desde então tenho me dedicado ao aprimoramento constante. Estou focado no desenvolvimento ágil e eficiente utilizando Spring Boot, buscando aplicar as melhores práticas de engenharia de software para criar aplicações robustas e escaláveis.
+Olá, meu nome é Edgar sou de Suzano - SP. Estudante em Gestão da Tecnologia da Informação. Durante anos, adquiri habilidades como organização, resolução de problemas e trabalho em equipe, que acredito serem fundamentais para minha jornada na área de desenvolvimento. Estou entusiasmado para aplicar minha experiência anterior e minha paixão pela tecnologia para enfrentar novos desafios e aprender continuamente nesta nova área.
 
 <div align="center"> 
  <h2> 🛠️ Habilidades e Tecnologias</h2>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,idea,aws,kafka,docker,maven,mysql,postman)](https://skillicons.dev)
 </div>
 
-- **Java:** Experiência basica na linguagem de programação Java.
-- **Spring Boot:** aprendendo desenvolvimento de aplicativos usando o framework Spring Boot.
-- **JavaScript, HTML, CSS:** Aprendendo e desenvolvendo habilidades em tecnologias web para criar interfaces de usuário dinâmicas e responsivas.
-- **SQL:** Experiência básica em gerenciamento de bancos de dados relacionais.
-
-
-<div align="center"> 
- <h2> 🎯 Objetivos</h2>
-</div>
-
-Estou animado para aplicar minhas habilidades e conhecimentos em projetos desafiadores e inovadores. Busco oportunidades de crescimento profissional onde possa contribuir significativamente e continuar minha jornada de aprendizado na área de desenvolvimento de software.
-
-<div align="center"> 
- 💼 Vamos nos conectar e criar algo incrível juntos? 😊
-</div>
+Aqui você encontrará alguns projetos focados nas seguintes tecnologias que estou aprendendo.
+- Java
+- Kotlin
+- Spring Boot (Web, Data JPA, Security)
+- Microservices
+- Relational and Non-Relational Databases (PostgreSQL, MySQL, MongoDB)
+- Docker
+- Kafka
+- AWS
 
 ## 
 <!-- GRS (Light Mode) -->
