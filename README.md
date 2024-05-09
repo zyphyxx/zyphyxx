@@ -9,20 +9,10 @@
 Olá, meu nome é Edgar sou de Suzano - SP. Estudante em Gestão da Tecnologia da Informação. Durante anos, adquiri habilidades como organização, resolução de problemas e trabalho em equipe, que acredito serem fundamentais para minha jornada na área de desenvolvimento. Estou entusiasmado para aplicar minha experiência anterior e minha paixão pela tecnologia para enfrentar novos desafios e aprender continuamente nesta nova área.
 
 <div align="center"> 
- <h2> 🛠️ Habilidades e Tecnologias</h2>
+ <h2>Habilidades e Tecnologias em Estudo 🛠️</h2>
  
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,idea,aws,kafka,docker,maven,mysql,postman)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,aws,kafka,docker,mysql,idea,maven,postman)](https://skillicons.dev)
 </div>
-
-Aqui você encontrará alguns projetos focados nas seguintes tecnologias que estou aprendendo.
-- Java
-- Kotlin
-- Spring Boot (Web, Data JPA, Security)
-- Microservices
-- Relational and Non-Relational Databases (PostgreSQL, MySQL, MongoDB)
-- Docker
-- Kafka
-- AWS
 
 ## 
 <!-- GRS (Light Mode) -->
