@@ -4,12 +4,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zyphyxx)
 
 <div align="center"> 
- <h2> 👋 Sobre mim</h2>
+ <h2> 👋 About Me</h2>
 </div>
-Olá, meu nome é Edgar sou de Suzano - SP. Estudante em Gestão da Tecnologia da Informação. Durante anos, adquiri habilidades como organização, resolução de problemas e trabalho em equipe, que acredito serem fundamentais para minha jornada na área de desenvolvimento. Estou entusiasmado para aplicar minha experiência anterior e minha paixão pela tecnologia para enfrentar novos desafios e aprender continuamente nesta nova área.
-
+Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineering student. Over the years, I've acquired skills such as organization, problem-solving, and teamwork, which I believe are essential for my journey in the development field. I'm excited to apply my previous experience and my passion for technology to tackle new challenges and continuously learn in this new area.
 <div align="center"> 
- <h2>Habilidades e Tecnologias em Estudo 🛠️</h2>
+ <h2>Skills and Technologies Being Studied 🛠️</h2>
  
  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,aws,kafka,docker,mysql,idea,maven,postman)](https://skillicons.dev)
 </div>
