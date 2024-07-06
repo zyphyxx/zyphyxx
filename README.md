@@ -1,4 +1,4 @@
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-smj/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendesbr92@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zyphyxx)
@@ -14,7 +14,8 @@ Hello, my name is Edgar and I'm from São Paulo, Brazil. I'm a Software Engineer
  <h2>🛠️ Skills and Technologies</h2>
  
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,django,aws,docker,mysql,postgresql,postman)](https://skillicons.dev)
-</div>
+</div> 
+-->
 
 ## GitHub Stats
 
